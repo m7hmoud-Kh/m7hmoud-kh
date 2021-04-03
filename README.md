@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/m7moud-khairy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="m7moud-khairy/" height="30" width="40" /></a>
-<a href="https://fb.com//profile.php?id=100014441446650" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="/profile.php?id=100014441446650" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/m7moud-khairy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="m7moud-khairy/" height="30" width="40"  style="color:blue" /></a>
+<a href="https://fb.com//profile.php?id=100014441446650" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="/profile.php?id=100014441446650" height="30" width="40" style="color:blue" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
