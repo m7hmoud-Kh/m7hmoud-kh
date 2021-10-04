@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Khairy</h1>
 <h3 align="center">Full stack Developer PHP</h3>
 
-- 🌱 I’m currently learning **vue.js , larvel**
+- 🌱 I’m currently learning **vue.js**
 
 - 👨‍💻 All of my projects are available at [https://m7moud-portfolio.netlify.app](https://m7moud-portfolio.netlify.app)
 
